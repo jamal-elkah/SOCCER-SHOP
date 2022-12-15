@@ -1,0 +1,19 @@
+.j{
+    height: 80vh;
+}
+.login{
+    width: 300px;
+    height: min-content;
+    border-radius: 15px;
+    padding: 40px;
+    color: black;
+    background-color: rgba(156, 184, 202, 0.383);
+}
+.for{
+    background-color: rgba(156, 184, 202, 0.383);
+    color: black;
+    padding: 40px;
+    border-radius: 15px;
+    
+} 
+
